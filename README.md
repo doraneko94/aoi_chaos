@@ -2,7 +2,7 @@
 
 のーふぉんさん作、「琴葉葵の混沌解析」で紹介されていたデータ同化シミュレーションを、Rustに翻訳した支援コードです。
 
-## Line up
+## Contents
 
 ### sin_gen
 
@@ -14,4 +14,8 @@
 ../aoi_chaos> cargo run --release --example sin_gen --features intel-mkl 
 ```
 
-[](https://github.com/doraneko94/aoi_chaos/sin_gen/sin_gen.png)
+![sin_gen](sin_gen/sin_gen.png)
+
+### part3 以降
+
+作成中です…
